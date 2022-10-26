@@ -88,6 +88,8 @@ body {
   background: #1B1B1B;
   color: rgb(240, 240, 240);
   font-weight: 800;
+  font-stretch: 145;
+  font-variation-settings: "GRAD" -162, "slnt" 0, "XTRA" 468, "XOPQ" 96, "YOPQ" 79, "YTLC" 514, "YTUC" 712, "YTAS" 750, "YTDE" -203, "YTFI" 738, "opsz" 137;
 }
 
 a {
