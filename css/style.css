@@ -567,8 +567,11 @@ a.item-header__tel {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
+  -webkit-justify-content: flex-end;
+  align-items: flex-end;
   align-items: end;
-  top: 0%;
+  align-items: end;
+  top: 100%;
   z-index: 6;
   right: 8%;
 }
@@ -1361,7 +1364,7 @@ a.item-header__tel {
   }
 
   .top-menu {
-    margin: 0 0 10px 0;
+    margin: 0 0 15px 0;
   }
 
   .title h2 {
@@ -2339,5 +2342,10 @@ a.item-header__logo {
 @media (max-width: 450px) {
   .cont-fullscreen__btn {
     top: -20%;
+  }
+}
+@media (max-height: 600px) {
+  .cont-fullscreen__address {
+    top: -5%;
   }
 }
