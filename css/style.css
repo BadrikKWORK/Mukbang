@@ -564,16 +564,18 @@ a.item-header__tel {
       -ms-flex-pack: end;
           justify-content: end;
   -webkit-justify-content: flex-end;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+  align-items: flex-end;
   -webkit-justify-content: flex-end;
   align-items: flex-end;
   align-items: end;
   align-items: end;
-  top: 100%;
+  top: 0%;
   z-index: 6;
   right: 8%;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: end;
+  -webkit-align-items: flex-end;
 }
 
 .address-fullscreen__item {
