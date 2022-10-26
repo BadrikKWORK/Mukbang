@@ -434,6 +434,7 @@ a.item-header__tel {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
   padding: 0 60px 0 0;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -525,6 +526,7 @@ a.item-header__tel {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: end;
+  -webkit-align-items: flex-end;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -549,6 +551,7 @@ a.item-header__tel {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: end;
+  -webkit-align-items: flex-end;
 }
 .cont-fullscreen__btn {
   position: absolute;
@@ -560,9 +563,11 @@ a.item-header__tel {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
   -webkit-box-align: end;
       -ms-flex-align: end;
-          align-items: end;
+          align-items: flex-end;
+  align-items: end;
   top: 0%;
   z-index: 6;
   right: 8%;
@@ -728,6 +733,8 @@ a.item-header__tel {
     -webkit-box-pack: end;
     -ms-flex-pack: end;
     justify-content: end;
+    -webkit-justify-content: flex-end;
+    -webkit-justify-content: flex-end;
   }
 
   .address-fullscreen__item {
@@ -1000,6 +1007,7 @@ a.item-header__tel {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
 }
 
 .item-category {
@@ -1104,6 +1112,7 @@ a.item-header__tel {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
@@ -1408,6 +1417,7 @@ a.item-header__tel {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
   color: #E6E6E6;
 }
 .item-stock__image {
@@ -1456,6 +1466,7 @@ a.item-header__tel {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
+  -webkit-align-items: flex-end;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -1606,6 +1617,7 @@ a.item-header__tel {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -2233,6 +2245,7 @@ a.item-header__logo {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
+  -webkit-justify-content: flex-end;
 }
 .content-two-footer__column:first-child {
   margin: 0 27.5% 0 0;
