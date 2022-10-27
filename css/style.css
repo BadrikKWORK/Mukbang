@@ -430,7 +430,7 @@ a.item-header__tel {
 
   .item-header__mec {
     position: absolute;
-    top: 89vh;
+    top: 100vh;
     left: 0;
     width: 100%;
     display: -webkit-box;
