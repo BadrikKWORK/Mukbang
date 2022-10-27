@@ -444,7 +444,7 @@ a.item-header__tel {
         -ms-flex-pack: justify;
             justify-content: space-between;
     padding: 15px;
-    background: #5a5a5a;
+    background: #000000;
   }
 
   .item-header__tel-text {
